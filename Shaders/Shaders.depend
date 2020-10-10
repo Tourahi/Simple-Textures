@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1602277178 source:/home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/shader.cpp
+	"shader.h"
+
+1602277199 /home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/shader.h
+	"GL/glew.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1602286404 source:/home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/main.cpp
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"stb_image.h"
+	<iostream>
+	<cmath>
+	<string>
+	"VBO.h"
+	"shader.h"
+
+1602280504 /home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/VBO.h
+	"GL/glew.h"
+	<string>
+	<iostream>
+
+1602280560 source:/home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/VBO.cpp
+	"VBO.h"
+
+1602282768 /home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1602284609 source:/home/maro/Desktop/OpenGl/Application/CB::OPgl/Shaders/std.cpp
+	"stb_image.h"
+
